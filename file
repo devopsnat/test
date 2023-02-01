@@ -1,1 +1,8 @@
-jennydai2011/0000/0000-01-result-wechat_number.jpg
+I am learning how to push codes on github
+code filename
+add codes or w/e you'd like 
+git add .
+git commit -m "making changes"
+git status
+git push -u origin filename
+it's done!
